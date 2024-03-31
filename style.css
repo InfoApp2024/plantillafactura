@@ -273,30 +273,14 @@ tr:hover .cut {
     font-size: 60%;
 }
 
-/* Estilos para el footer */
-footer {
-    margin-top: 3em; /* Ajusta según sea necesario */
-    font-size: 80%; /* Ajusta el tamaño del texto del pie de página */
-}
 
-/* Estilos para el texto en negrita */
-footer strong {
-    font-weight: bold;
-}
-
-/* Estilo para la línea debajo del texto */
-footer .custom-line {
-    border: none;
-    border-bottom: 1px solid #000;
-    margin: 5px 0;
-}
 /* Estilos para el footer */
 footer {
     position: fixed;
-    bottom: 0;
+    bottom: 30px; /* Ajusta la distancia del footer al borde inferior */
     left: 0;
     width: 100%;
-    margin-top: 3em; /* Ajusta según sea necesario */
+    text-align: center; /* Centra el texto */
     font-size: 80%; /* Ajusta el tamaño del texto del pie de página */
     z-index: 1000; /* Asegura que el footer esté sobre cualquier otro contenido */
 }
@@ -310,7 +294,6 @@ footer strong {
 footer .custom-line {
     border: none;
     border-bottom: 1px solid #000;
-    margin: 5px 0;
+    margin: 5px auto; /* Centra la línea horizontal */
+    width: 50%; /* Ajusta la anchura de la línea según sea necesario */
 }
-
-
