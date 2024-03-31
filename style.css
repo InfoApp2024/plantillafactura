@@ -272,3 +272,22 @@ tr:hover .cut {
 .small-text {
     font-size: 60%;
 }
+
+/* Estilos para el footer */
+footer {
+    margin-top: 3em; /* Ajusta según sea necesario */
+    font-size: 80%; /* Ajusta el tamaño del texto del pie de página */
+}
+
+/* Estilos para el texto en negrita */
+footer strong {
+    font-weight: bold;
+}
+
+/* Estilo para la línea debajo del texto */
+footer .custom-line {
+    border: none;
+    border-bottom: 1px solid #000;
+    margin: 5px 0;
+}
+
