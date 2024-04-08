@@ -281,7 +281,7 @@ footer {
     left: 0;
     width: 100%;
     text-align: center; /* Centra el texto */
-    font-size: 90%; /* Ajusta el tamaño del texto del pie de página */
+    font-size: 70%; /* Ajusta el tamaño del texto del pie de página */
     z-index: 1000; /* Asegura que el footer esté sobre cualquier otro contenido */
 }
 
