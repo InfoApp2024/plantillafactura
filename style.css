@@ -298,9 +298,8 @@ footer .custom-line {
     width: 50%; /* Ajusta la anchura de la línea según sea necesario */
 }
 
-.logo img {
-    float: right;
-    width: 10px; /* Cambia este valor según tus necesidades */
-    height: auto; /* Mantén la proporción de la altura */
+/* Estilos para el logo */
+.company-info img {
+  width: 45px;
+  margin-left: 10px;
 }
-
