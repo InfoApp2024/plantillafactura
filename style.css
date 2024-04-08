@@ -277,7 +277,7 @@ tr:hover .cut {
 /* Estilos para el footer */
 footer {
     position: fixed;
-    bottom: 40px; /* Ajusta la distancia del footer al borde inferior */
+    bottom: 80px; /* Ajusta la distancia del footer al borde inferior */
     left: 0;
     width: 100%;
     text-align: center; /* Centra el texto */
