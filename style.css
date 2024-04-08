@@ -297,3 +297,9 @@ footer .custom-line {
     margin: 20px auto; /* Centra la línea horizontal */
     width: 50%; /* Ajusta la anchura de la línea según sea necesario */
 }
+
+.logo img {
+    width: 50px; /* Cambia este valor según tus necesidades */
+    height: auto; /* Mantén la proporción de la altura */
+}
+
