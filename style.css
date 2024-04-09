@@ -273,11 +273,10 @@ tr:hover .cut {
     font-size: 60%;
 }
 
-
 /* Estilos para el footer */
 footer {
     position: fixed;
-    bottom: 80px; /* Ajusta la distancia del footer al borde inferior */
+    bottom: 0; /* Coloca el footer al borde inferior de la página */
     left: 0;
     width: 100%;
     text-align: center; /* Centra el texto */
@@ -300,10 +299,11 @@ footer .custom-line {
 
 /* Estilos para el logo */
 .company-info img {
-  width: 65px;
-  margin-left: 10px;
+    width: 65px;
+    margin-left: 10px;
 }
+
 /* Estilo para el espacio entre el contenido y el footer */
 .espacio-footer {
-  height: 200px; /* Ajusta este valor según sea necesario */
+    height: 200px; /* Ajusta este valor según sea necesario */
 }
