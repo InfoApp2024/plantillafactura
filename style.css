@@ -303,3 +303,7 @@ footer .custom-line {
   width: 65px;
   margin-left: 10px;
 }
+/* Estilo para el espacio entre el contenido y el footer */
+.espacio-footer {
+  height: 200px; /* Ajusta este valor según sea necesario */
+}
